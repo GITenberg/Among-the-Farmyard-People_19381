@@ -1,0 +1,51 @@
+_repo: Among-the-Farmyard-People_19381
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gordon, F. C.
+    alias: Gordon, Frederick C. (Frederick Charles)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '37343'
+    url: http://www.gutenberg.org/2009/agents/37343
+covers:
+- cover_type: archival
+  image_path: 19381-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Pierson, Clara Dillingham
+    gutenberg_agent_id: '8634'
+    url: http://www.gutenberg.org/2009/agents/8634
+description: Cover; Title Page; Copyright Page; Table of Contents; The Story That
+  the Swallow Didn't Tell; The Lamb with the Longest Tail; The Wonderful Shiny Egg;
+  The Duckling Who Didn't Know What to Do; The Fussy Queen Bee; The Bay Colt Learns
+  to Mind; The Twin Lambs; The Very Short Story of the Foolish Little Mouse; The Lonely
+  Little Pig; The Kitten Who Lost Herself; The Chicken Who Wouldn't Eat Gravel; The
+  Goose Who Wanted Her Own Way; Why the Sheep Ran Away; The Fine Young Rat and the
+  Trap; The Quick-tempered Turkey Gobbler; The Bragging Peacock; The Discontented
+  Guinea Hen.
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2006-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: The story that the swallow didn't tell -- The lamb with the longest
+  tail -- The wonderful shiny egg -- The duckling who didn't know what to do -- The
+  fussy queen bee -- The bay colt learns to mind -- The twin lambs -- The very short
+  story of the foolish little mouse -- The lonely little pig -- The kitten who lost
+  herself -- The chicken who wouldn't eat gravel -- The goose who wanted her own way
+  -- Why the sheep ran away -- The fine young rat and the trap -- The quick-tempered
+  turkey gobbler -- The bragging peacock -- The discontented guinea hen -- The oxen
+  talk with the calves.
+title: Among the Farmyard People
+url: http://www.gutenberg.org/ebooks/19381
